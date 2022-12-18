@@ -20,6 +20,7 @@ b=np.array([0,10])
 solution = np.linalg.solve(a,b)
 print(solution)
 ## Output:
+file:///home/sec/Pictures/Screenshots/maths%201.png![image](https://user-images.githubusercontent.com/118622554/208283265-c137de19-0297-412d-aab5-c642d0db4aae.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 

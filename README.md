@@ -14,11 +14,13 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
+```
 import numpy as np
 a=np.array([[1,-3],[3,1]])
 b=np.array([0,10])
 solution = np.linalg.solve(a,b)
 print(solution)
+```
 ## Output:
 ![OUTPUT](./maths%201.png)
 ## Result: 
